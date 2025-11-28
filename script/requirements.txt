@@ -1,0 +1,10 @@
+paramiko
+netmiko
+python-nmap
+pyvmomi
+requests
+boto3
+jinja2
+docker
+psutil
+pyyaml
